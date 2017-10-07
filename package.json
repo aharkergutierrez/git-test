@@ -1,0 +1,16 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "qwerty",
+  "main": "index.html",
+  "scripts": {
+	  "start":"npm run lite",
+    "test": "",
+    "lite":"lite-server"
+  },
+  "author": "Andres",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
